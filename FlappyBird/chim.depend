@@ -1,0 +1,168 @@
+# depslib dependency file v1.0
+1746407503 source:c:\users\admin\documents\cpp\project\chim\game.cpp
+	"game.h"
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1746404267 c:\users\admin\documents\cpp\project\chim\game.h
+	<SDL.h>
+	<vector>
+	"utils.h"
+
+1746404379 c:\users\admin\documents\cpp\project\chim\utils.h
+	<SDL.h>
+	<vector>
+
+1746404362 c:\users\admin\documents\cpp\project\chim\texture_manager.h
+	<string>
+	<SDL.h>
+
+1746407941 source:c:\users\admin\documents\cpp\project\chim\main.cpp
+	"utils.h"
+	"texture_manager.h"
+	"game.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1746404436 source:c:\users\admin\documents\cpp\project\chim\texture_manager.cpp
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+
+1746407503 source:c:\users\admin\downloads\flappyv2\game.cpp
+	"game.h"
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1746404267 c:\users\admin\downloads\flappyv2\game.h
+	<SDL.h>
+	<vector>
+	"utils.h"
+
+1746404379 c:\users\admin\downloads\flappyv2\utils.h
+	<SDL.h>
+	<vector>
+
+1746404362 c:\users\admin\downloads\flappyv2\texture_manager.h
+	<string>
+	<SDL.h>
+
+1746451360 source:c:\users\admin\downloads\flappyv2\main.cpp
+	"utils.h"
+	"texture_manager.h"
+	"game.h"
+	"audio_manager.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1746404436 source:c:\users\admin\downloads\flappyv2\texture_manager.cpp
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+
+1746434282 source:c:\users\admin\downloads\flappyv2\audio_manager.cpp
+	"audio_manager.h"
+	<iostream>
+
+1746434376 c:\users\admin\downloads\flappyv2\audio_manager.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1746460629 source:c:\users\admin\documents\cpp\project\flappyv2\audio_manager.cpp
+	"audio_manager.h"
+	<iostream>
+
+1746460638 c:\users\admin\documents\cpp\project\flappyv2\audio_manager.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1746461852 source:c:\users\admin\documents\cpp\project\flappyv2\game.cpp
+	"game.h"
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1746461877 c:\users\admin\documents\cpp\project\flappyv2\game.h
+	<SDL.h>
+	<vector>
+	"utils.h"
+
+1746404379 c:\users\admin\documents\cpp\project\flappyv2\utils.h
+	<SDL.h>
+	<vector>
+
+1746461992 c:\users\admin\documents\cpp\project\flappyv2\texture_manager.h
+	<string>
+	<SDL.h>
+
+1746461688 source:c:\users\admin\documents\cpp\project\flappyv2\main.cpp
+	"utils.h"
+	"texture_manager.h"
+	"game.h"
+	"audio_manager.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1746461992 source:c:\users\admin\documents\cpp\project\flappyv2\texture_manager.cpp
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+
+1746553213 source:c:\users\admin\documents\cpp\project\flappybird\audio_manager.cpp
+	"audio_manager.h"
+	<iostream>
+
+1746553066 c:\users\admin\documents\cpp\project\flappybird\audio_manager.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1746552702 source:c:\users\admin\documents\cpp\project\flappybird\game.cpp
+	"game.h"
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1746464673 c:\users\admin\documents\cpp\project\flappybird\game.h
+	<SDL.h>
+	<vector>
+	"utils.h"
+
+1746552746 c:\users\admin\documents\cpp\project\flappybird\utils.h
+	<SDL.h>
+	<vector>
+
+1746464722 c:\users\admin\documents\cpp\project\flappybird\texture_manager.h
+	<string>
+	<SDL.h>
+
+1746553148 source:c:\users\admin\documents\cpp\project\flappybird\main.cpp
+	"utils.h"
+	"texture_manager.h"
+	"game.h"
+	"audio_manager.h"
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1746507525 source:c:\users\admin\documents\cpp\project\flappybird\texture_manager.cpp
+	"texture_manager.h"
+	<SDL_image.h>
+	<iostream>
+
