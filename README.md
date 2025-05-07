@@ -3,9 +3,10 @@
 - Mã sinh viên: 24022804
 
 ## Giới thiệu
-1 phiên bản clone của Flappy Bird. Người chơi sẽ điểu khiển chú chim bay qua các ống liên tục.
+- 1 phiên bản clone của Flappy Bird. Người chơi sẽ điểu khiển chú chim bay qua các ống liên tục.
 
 ## Cách chơi
+- Người chơi ấn Space hoặc nhấn chuột để chú chim bay lên. Mỗi lần bay qua ống thì được cộng 1 điểm. Nếu chạm vào ống hoặc rơi xuống đất thì trò chơi kết thúc.
 
 ## Đề xuất ngưỡng điểm: 8
 - Game có đồ họa, gameplay cũng như giao diện menu bắt đầu và game over đơn giản.
